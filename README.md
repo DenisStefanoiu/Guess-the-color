@@ -9,5 +9,5 @@
 
 •	Click New colors, Easy or Hard to generate new ones
 
-• Developed this game using HTML, CSS and Javascript.
+• Developed this game using HTML, CSS and Javascript
 
