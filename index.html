@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h2>GUESS THE COLOR GAME</h2>
+        <h1 id="title">RGB(184, 170, 67)</h1>
+    </header>
+    <div id="actions">
+        <div>
+            <span onclick="generateDivs(6)">New colors</span>
+        </div>
+        <span id="congrats"></span>
+        <div>
+            <span id="easy" class="action" onclick="generateDivs(3)">Easy</span>
+            <span id="hard" class="action" onclick="generateDivs(6)">Hard</span>
+        </div>
+    </div>
+    <div id="colors">
+    </div>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+</html>
