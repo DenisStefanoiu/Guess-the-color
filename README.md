@@ -1,4 +1,3 @@
-How to play:
 
 •	RGB displays a target color
 
