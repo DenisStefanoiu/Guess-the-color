@@ -1,4 +1,5 @@
 How to play:
+
 •	RGB displays a target color
 •	Easy Mode : 3 random color squares
 •	Hard Mode : 6 random color squares
